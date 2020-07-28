@@ -2,8 +2,8 @@ GEM
   remote: http://rubygems.org/
   specs:
     bunny (0.7.9)
-    json (1.6.5)
-    json (1.6.5-java)
+    json (2.3.0)
+    json (2.3.0-java)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
